@@ -1,4 +1,3 @@
-###  Bem vindo ao meu perfil GitHub. 👋 Hello! Welcome to my Github profile. 
 <div>
   <a href="https://github.com/jonnatanfarias"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonnatanfarias&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"/>
