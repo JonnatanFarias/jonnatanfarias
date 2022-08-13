@@ -1,10 +1,10 @@
 <div>
-  <a href="https://github.com/jonnatanfarias"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonnatanfarias&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnatanfarias&amp;layout=compact&amp;langs_count=7&amp;theme=dracula"/>
-  
-  <hr class="rounded">
-</div>
+        <a href="https://github.com/jonnatanfarias"></a>
+        <img height="180px" width="400px"
+            src="https://github-readme-stats.vercel.app/api?username=jonnatanfarias&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" />
+        <img height="180px" width="400px"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnatanfarias&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" />
+    </div>
 
 <p>Ferramentas e Tecnologias</p>
 
