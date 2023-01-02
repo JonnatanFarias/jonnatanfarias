@@ -42,7 +42,7 @@
 <a href="mailto:jonnattanfarias@gmail.com"><img
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
                 target="_blank"></a>
-<a href="https://www.linkedin.com/in/jonnatanfarias" target="_blank"><img
+<a href="https://www.linkedin.com/in/jonnatan-farias" target="_blank"><img
                 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
                 target="_blank"></a>
 </div>
